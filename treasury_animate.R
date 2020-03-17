@@ -1,5 +1,6 @@
 library(tidyverse)
 library(rvest)
+library(gganimate)
 
 url <- "https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=yieldAll"
 
